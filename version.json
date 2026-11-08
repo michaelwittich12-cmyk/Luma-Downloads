@@ -1,7 +1,7 @@
 {
-    "version": "1.1.0",
-    "url": "https://github.com/michaelwittich12-cmyk/Luma-Downloads/releases/download/v1.1.0/Luma-Update-1.1.0.exe",
-    "sha256": "28ad0e6c634721c3ab7078ad90b4adb80bbb9e6078aead70ff3d4193826bfeef",
-    "pflicht": true,
-    "notizen": "Komplett neues Click-GUI (rechte Umschalttaste) mit Karten, Leiste und Suche, neues HUD in drei Stilen mit Einstellungen pro Feld, Angriffs-Rechteck am Fadenkreuz, Blockrand Kristall (auch mit Shadern), Sterne nicht mehr durch Blöcke, glattere Schrift, neues Hauptmenü, Skyboxen, Shader mit Sodium, Trail, Target ESP, 3D-Modelle, Item Scroller und viele Fehlerbehebungen."
+    "version": "1.3.0",
+    "url": "https://github.com/michaelwittich12-cmyk/Luma-Downloads/releases/download/v1.3.0/Luma-Update-1.3.0.exe",
+    "sha256": "96d45fb68772d00362a7bccb1fa91ea42cdc48fb6b4c7eadea7b30828481f3e1",
+    "pflicht": false,
+    "notizen": "Neue Schwerter (5 Designs mit 3D-Teilen), Kristall-Optimierer für Kristall-PvP, optionaler Voice-Chat im Launcher, viel schnellerer Wolken-Himmel, neuer Begleiter, Musik-Anzeige mit echtem Cover und Songtext Wort für Wort, glatte Oberfläche auch bei kleiner Größe, Raincore-Qualität und schnelleres HUD."
 }
